@@ -1,6 +1,6 @@
 # Generate Your Own Random Password
 
-This project is  a Solo Project on Scrimba Frontend Carrier Path.
+This project is  a Solo Project on Scrimba Frontend Career Path.
 
 [Generate](https://password-generator-three-psi.vercel.app/)
 
