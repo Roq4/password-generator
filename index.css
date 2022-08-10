@@ -1,0 +1,63 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #8D918B;
+    font-family: 'Bebas Neue';
+    font-size: 22px;
+
+}
+
+button {
+    background: #C1EDCC;
+    box-shadow: 3px 3px;
+    font-size: 16px;
+    font-weight: bold;
+    width: 220px;
+    height: 40px;
+    border-radius: 6px;
+}
+
+.icon{
+    margin-right: 10px;
+}
+
+.Container {
+    background: #DFAD7C;
+    width: 550px;
+    height: 550px;
+    margin: auto;
+    box-shadow: 3px 3px;
+    border: solid 1px;
+    
+}
+
+.mainContainer {
+    margin: 0px 40px;
+    padding: 40px;
+    border-bottom: solid 1px;
+}
+
+.passwordContainer{
+    display: flex;
+    justify-content: center;
+}
+
+#pw-length-declare {
+    box-shadow: 3px 3px;
+    background-color: #C1EDCC;
+    margin-left: 30px;
+    font-size: 16px;
+    border-radius: 3px;
+
+}
+
+#password1, #password2, #password3, #password4{
+    width: 150px;
+    height: 20px;
+    background-color: #FF5376;
+    margin: 30px;
+    padding: .5rem;
+    border-radius: 6px;
+    box-shadow: 3px 3px;
+    font-size: 16px;
+}
