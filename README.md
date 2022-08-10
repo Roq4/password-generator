@@ -1,4 +1,6 @@
-# title(){return this.options.title||this.options.name}
+# Generate Your Own Random Password
+
+[Generate](https://password-generator-three-psi.vercel.app/)
 
 ## Supporting Scrimba
 
